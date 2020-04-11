@@ -13,5 +13,7 @@ Dentro de la carpeta **Códigos**:
 * **My_solution_no_CV.ipynb** está el análisis general
 * **01_tratamiento_cv.py** y **01_tratamiento_cv_predict** es el código final que use para obtener el puesto 18.
 
+Jahaziel Ponce Sánchez
+
 
 
